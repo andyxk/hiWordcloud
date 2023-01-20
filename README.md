@@ -1,0 +1,2 @@
+# hiWordcloud
+一个生成词云wordcloud的python脚本
